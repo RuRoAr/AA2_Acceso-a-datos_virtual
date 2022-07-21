@@ -1,0 +1,24 @@
+[
+  {
+    "id": 23,
+    "price": 20.5,
+    "weight": 50.5,
+    "ready": false,
+    "time": 30,
+    "distance": 500,
+    "restaurant": 2,
+    "user": 1,
+    "rider": 3
+  },
+  {
+    "id": 24,
+    "price": 10.5,
+    "weight": 23.6,
+    "ready": true,
+    "time": 40,
+    "distance": 1000,
+    "restaurant": 4,
+    "user": 1,
+    "rider": 3
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 23,
+    "name": "Jose Luis",
+    "surname": "Lopez",
+    "vehicle": "bicicleta",
+    "maxSpeed": 50
+  },
+  {
+    "id": 24,
+    "name": "Marta",
+    "surname": "Sanz",
+    "vehicle": "bicicleta",
+    "maxSpeed": 50
+  }
+]

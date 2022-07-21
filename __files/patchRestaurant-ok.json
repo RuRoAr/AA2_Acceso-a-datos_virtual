@@ -1,0 +1,8 @@
+{
+  "name": "La zarzuela",
+  "address": "plaza Aragon n8",
+  "capacity": 50,
+  "operative": true,
+  "mediumPrice": 30.5,
+  "category": "Asiatico"
+}

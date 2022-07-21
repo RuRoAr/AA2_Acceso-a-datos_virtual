@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/order/1"
+  },
+  "response": {
+    "status": 404,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "getOrderId-ko.json"
+  }
+}

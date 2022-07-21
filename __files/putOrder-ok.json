@@ -1,0 +1,10 @@
+{
+  "price": 20.5,
+  "weight": 50.5,
+  "ready": false,
+  "time": 30,
+  "distance": 500000,
+  "restaurant": 2,
+  "user": 1,
+  "rider": 3
+}

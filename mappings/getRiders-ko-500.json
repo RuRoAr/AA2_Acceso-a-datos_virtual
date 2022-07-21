@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/riders"
+  },
+  "response": {
+    "status": 500,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "getRiders-ko.json"
+  }
+}

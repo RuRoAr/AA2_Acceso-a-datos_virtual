@@ -1,0 +1,20 @@
+[
+  {
+    "id": 23,
+    "name": "La zarzuela",
+    "address": "plaza Aragon n8",
+    "capacity": 50,
+    "operative": true,
+    "mediumPrice": 30.5,
+    "category": "Asiatico"
+  },
+  {
+    "id": 24,
+    "name": "La jota",
+    "address": "plaza España n8",
+    "capacity": 20,
+    "operative": true,
+    "mediumPrice": 15.6,
+    "category": "Mediterraneo"
+  }
+]

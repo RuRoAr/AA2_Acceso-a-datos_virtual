@@ -1,0 +1,18 @@
+[
+  {
+    "id": 23,
+    "dni": "94839042A",
+    "name": "Aitor",
+    "surname": "Sanchez",
+    "birthDate": "1998-02-01",
+    "address": "calle salomon 8-5c"
+  },
+  {
+    "id": 24,
+    "dni": "94888042A",
+    "name": "Luis",
+    "surname": "Sanchez",
+    "birthDate": "1998-02-01",
+    "address": "calle salomon 8-5c"
+  }
+]
